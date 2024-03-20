@@ -4,5 +4,5 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "cwordtm"
-authors = [{name = "????", email = "????@gmail.com"}]
+authors = [{name = "NLP 2024", email = "nlp202403@gmail.com"}]
 dynamic = ["version", "description"]
